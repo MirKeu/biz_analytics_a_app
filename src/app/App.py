@@ -27,7 +27,7 @@ st.write(prediction_rounded)
 "Tonnen pro Kopf pro Jahr"
 
 
-"Autor: Mirko Keune (http://github.com/MirKeu)"
+"Autor: Mirko Keune HSD (http://github.com/MirKeu)"
 
 #%%
 
